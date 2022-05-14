@@ -8,8 +8,8 @@ import Home from './components/Home';
 function App() {
   return (
     <div className='App'>
-      <Header/>
-       <Home/>
+        <Header/>
+        <Home/>
        <h1>hello</h1>
     </div>
   );

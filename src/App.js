@@ -10,7 +10,7 @@ function App() {
     <div className='App'>
         <Header/>
         <Home/>
-       <h1>hello</h1>
+       
     </div>
   );
 }
